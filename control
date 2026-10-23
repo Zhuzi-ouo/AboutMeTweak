@@ -1,0 +1,9 @@
+Package: com.0xpo1aris.aboutmetweak
+Name: AboutMeTweak
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 美化關於本機頁面
+Maintainer: 0xPo1aris
+Author: 0xPo1aris
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
