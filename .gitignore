@@ -1,3 +1,7 @@
 .theos/
 packages/
 .DS_Store
+*.code-workspace
+.vscode/
+*.swp
+*.bak
